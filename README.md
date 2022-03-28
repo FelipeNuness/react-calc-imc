@@ -12,5 +12,17 @@ Projeto desenvolvido durante o curso [B7web](https://b7web.com.br/fullstack/)
 ![print](./prints/2.png)
 
 ## Para Rodar
+```bash
+# Clonar o Projeto
+$ git clone https://github.com/FelipeNuness/react-calc-imc
 
-- `npm start`
+# Acessar
+$ cd react-calc-imc
+
+# Instalar as dependências
+$ npm i
+
+# Rodar o Projeto
+$ npm start
+
+```
