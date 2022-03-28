@@ -13,7 +13,7 @@ export const WeightField = () => {
 		<input
 			className={styles.weightField}
 			type='number'
-			placeholder='Digite a sua altura. Ex 1.5 (em métros)'
+			placeholder='Digite o seu peso. Ex 87.3 (em kg)'
 			value={weightField > 0 ? weightField : ''}
 			onChange={(e) => setWeightField(Number(e.target.value))}
 			disabled={toShow ? true : false}
